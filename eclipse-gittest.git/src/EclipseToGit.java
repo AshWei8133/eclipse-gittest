@@ -7,6 +7,7 @@ public class EclipseToGit {
 		System.out.println("shiba");
 		System.out.println("shiba");
 		System.out.println("shiba");
+		System.out.println("shiba");
 		
 
 
